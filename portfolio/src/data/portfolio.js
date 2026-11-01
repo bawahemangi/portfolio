@@ -12,9 +12,9 @@ export const profile = {
 }
 
 export const links = {
-  email: 'your.email@example.com', // TODO
+  email: 'bawahemangi@gmail.com', // TODO
   github: 'https://github.com/bawahemangi',
-  linkedin: 'https://www.linkedin.com/in/your-linkedin-handle', // TODO
+  linkedin: 'https://www.linkedin.com/in/hemangi-bawa/', // TODO
 }
 
 export const about = {
@@ -104,9 +104,9 @@ export const projects = [
 
 export const experience = [
   {
-    role: 'AI Enabled Software Engineer Intern',
-    company: 'Elite Softwares, Pune',
-    period: 'June 2026 – August 2026',
+    role: 'python full stack developer intern',
+    company: 'The Kiran Academy',
+    period: 'april 2025 – november 2025',
     points: [
       'Worked on Django-based web application development',
       'Learned and implemented Django MVT architecture',
